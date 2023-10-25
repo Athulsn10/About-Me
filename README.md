@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MEARN Stack<br><br>👨‍💻 All of my projects are available at bit.ly/portfolio-athul<br><br>💬 Ask me about html, css, javaScript, react<br><br>📫 How to reach me athulsn32@gmail.com
+🌱 I’m currently learning MEARN Stack<br><br>👨‍💻 All of my projects are available at <a href="bit.ly/portfolio-athul">bit.ly/portfolio-athul</a><br><br>💬 Ask me about html, css, javaScript, react<br><br>📫 How to reach me athulsn32@gmail.com
 
 
 ## 🌐 Socials:
